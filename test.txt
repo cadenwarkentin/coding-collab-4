@@ -1,1 +1,4 @@
-wegjkql
+git add .
+git status
+git commit -am 'name'
+git push
