@@ -1,4 +1,10 @@
+git init
 git add .
 git status
 git commit -am 'name'
 git push
+
+git merge master
+
+git checkout -b 'name'
+git checkout name
